@@ -3,13 +3,13 @@ Author: Wei Hao, Nicholas M. Vogt, Zihang Meng, Seong Jae Hwang, Rebecca L. Kosc
 
 _____________________________
 ## File Structure:
-assets	
-build/lib/torchdiffeq
-dist	
-pib
-  - CSVs and TXTs
-torchdiffeq.egg-info
-torchdiffeq	
-README.md
-v1
-v2
+1. assets	
+2. build/lib/torchdiffeq
+3. dist	
+4. pib
+    - CSVs and TXTs
+5. torchdiffeq.egg-info
+6. torchdiffeq	
+7. README.md
+8. v1
+9. v2
