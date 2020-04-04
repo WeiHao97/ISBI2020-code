@@ -9,16 +9,16 @@ _____________________________
 2. build/lib/torchdiffeq
 3. dist	
 4. pib
-    - put CSVs and TXTs here
+    - put CSVs and TXTs here (vist at t1,t2,t3 data not uploaded)
 5. torchdiffeq.egg-info
 6. torchdiffeq	
 7. README.md
-8. v1
-9. v2
-10. visualization
+8. v1 (Brain connectivty data not uploaded)
+9. visualization
     - use script_fiber_bundles_v2_040219 for visualization
 _____________________________
 ## Utilization and dependency:
+(in pib/ folder)
 1. use Data_Preparation.ipynb to generate clean data for general use
 2. use Model_train_and_evaluation.ipynb to generate prediction model in different time points and evaluation
 3. use pre_train.py to generate pretrain model for APOE_Analysis_Data_Generator.ipynb
